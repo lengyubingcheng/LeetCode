@@ -3,7 +3,7 @@ import java.util.*;
 class Solution {
     public static void main(String[] args) {
         Solution solution = new Solution();
-        
+
         System.out.println(solution.isSubsequence("axc"
                 , "ahbgdc"));
         System.out.println(-12 % -5);
